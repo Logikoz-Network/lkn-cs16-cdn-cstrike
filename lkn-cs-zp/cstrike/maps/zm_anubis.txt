@@ -1,0 +1,9 @@
+zm_anubis
+Map by FD|nelietis
+
+Low gravity arena type map.
+Just before the surf waves, there are normal gravity triggers.
+
+Avoid standing still for too long - Anubis might not like it!
+
+32 spawns

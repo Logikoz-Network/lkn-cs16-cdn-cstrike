@@ -1,0 +1,27 @@
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<style type="text/css">
+		body{font-family:arial,verdana,sans-serif;background-color:#202020}
+		#topo{text-align:center;font-size:30px;background-color:#ffed00;border:2px solid #be9a1c;padding:5px}
+		#corpo{color:#fff;font-size:14px;margin-right:10px;margin-left:10px;text-align:left}
+		</style>
+	</head>
+	<body>
+		<div id="topo">
+			[PipaMod]
+		</div>
+		<div id="corpo">
+			<p>Para soltar a pipa, inicialmente você precisa ter ao menos uma pipa, caso não tenha, vá até a loja e compre.</p>
+			<div id="loja" align="center">
+				<img src="https://fast.mgthost1.com.br/1262/cstrike/RulesView/loja.png">
+			</div>
+			<p>Se não tiver dinheiro terá que correr atrás das pipas que foram cortadas ou arrastar as pipas dos demais jogadores tocando nelas.</p>
+			<p>Em seguida, escolha a Pipa, Linha e Carretilha. Note que se você estiver apontando para direção errada o mod vai redirecionar ao ponto correto de empinar, assim refaça a etapa anterior.</p>
+			<p>Ao empinar utilize o mouse, botões esquerdo ou direito, para controlar a pipa e atente-se ao giro, pois indica a direção que ela irá.</p>
+			<p>Para mandar linha, solte os botões do mouse e para recolher mantenha qualquer um dos dois pressionado</p>
+			<p>Para recolher mais rápido de um passo para trás mantendo botão mouse pressionado ou pressione a tecla R + mouse ou tecla R (uma vez) + mouse</p>
+			<p>Evite de andar durante a cruza das linhas, fazendo isso vai que nem pato.</p>
+		</div>
+	</body>
+</html>

@@ -1,0 +1,36 @@
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<style type="text/css">
+			body {font-family: "arial", "verdana", "sans-serif";background-color: #202020;}
+			#topo {text-align: center;font-size: 30px;background-color: #ffed00;border: 2px solid #be9a1c;padding: 5px;}
+			#corpo {color:#fff;font-size: 14px;margin-right: 10px;margin-left: 10px;text-align: left;}
+		</style>
+	</head>
+	<body>
+		<div id="topo">
+			[PipaMod]
+		</div>
+		<div id="corpo">
+			<h3>Comandos</h3>
+			<p>Os comandos abaixo são usados no say do cliente, normalmente configurado no tecla y do teclado.</p>
+			<ol>
+				<li>/loja -> (VIP abrir loja)</li>
+				<li>/escada -> (VIP Menu Escada)</li>
+				<li>/ajuda -> menu de ajuda</li>
+				<li>/cam ->  mudar ângulo de visão do jogador</li>
+				<li>/top, /rank -> mostrar lista de top 15 players</li>
+				<li>/vip -> Vantagens VIP</li>
+				<li>/regras -> Mostrar Regras</li>
+				<li>/rr -> Resetar Frags</li>
+				<li>/resetxp -> Resetar Xp/Level</li>
+				<li>/inventario -> Listar Seus Dados</li>
+			</ol>
+			<p>Os comandos abaixo são usados no console do cliente.</p>
+			<ol>
+				<li>drop -> Quebrar a linha, normalmente tecla g do teclado</li>
+				<li>lastinv -> Zoom, normalmente tecla q do teclado</li>
+			</ol>
+		</div>
+	</body>
+</html>

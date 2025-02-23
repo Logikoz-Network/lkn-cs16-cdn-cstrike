@@ -1,0 +1,13 @@
+zm_tower_new - Counter-Strike - ZombieMod
+Remake DimeX
+
+Zm_tower_new Is remake an old map zm_tower4. In the new version the exit on a roof is added
+Towers as fire points are added many.
+Changes:
+1. On a map practically all non-standard structures
+2. It is a little changed gameplay
+3. Models on a map are added
+
+X-Zm_maps - best map
+
+(Press FIRE to continue)

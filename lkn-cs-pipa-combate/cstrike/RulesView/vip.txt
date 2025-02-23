@@ -1,0 +1,30 @@
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<style type="text/css">
+			body {font-family: "arial", "verdana", "sans-serif";background-color: #202020;}
+			#topo {text-align: center;font-size: 30px;background-color: #ffed00;border: 2px solid #be9a1c;padding: 5px;}
+			#corpo {color:#fff;font-size: 14px;margin-right: 10px;margin-left: 10px;text-align: left;}
+		</style>
+	</head>
+	<body>
+		<div id="topo">
+			[PipaMod]
+		</div>
+		<div id="corpo">
+			<h3>Vantagens</h3>
+			<ol>
+				<li>Entra com R$ 20,00</li>
+				<li>Banco Automático MAX 1.200,00</li>
+				<li>Pipas +2</li>
+				<li>Bônus por corte R$ 10,00</li>
+				<li>Recurso ExtraDMg</li>
+				<li>sKINS</li>
+			</ol>
+			<h3>Comandos</h3>
+			<p>say /loja, para acessar loja de qualquer ponto</p>
+			<p>say /escada, para abrir menu escada</p>
+			<p>Pressione a tecla E para mover as escadas</p>
+		</div>
+	</body>
+</html>
